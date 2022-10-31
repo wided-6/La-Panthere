@@ -8006,6 +8006,9 @@ button.close {
     .hidden-sm {
         display: none !important
     }
+    .bg-banniere {
+        background-image: url(img_converted/agence-la-panthere.webp);
+    
 }
 
 @media (min-width:992px) and (max-width:1199px) {
