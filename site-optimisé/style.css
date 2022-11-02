@@ -675,13 +675,14 @@ a {
 }
 
 p {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .citation{
     font-style: italic;
     font-size: 1.4em;
     text-align: center;
+    padding: 0px 180px;
 }
 .auteur {
     font-size: 1.3em;
@@ -710,9 +711,13 @@ p {
     margin: auto auto auto auto;
 }
 
+.title-h2{
+    padding: 0px 180px;
+}
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    
 }
 
 h3 {
@@ -782,7 +787,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color:white !important;
 }
 
 .white {
